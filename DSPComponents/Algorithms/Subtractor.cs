@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using DSPAlgorithms.DataStructures;
+
+namespace DSPAlgorithms.Algorithms
+{
+    public class Subtractor : Algorithm
+    {
+        public Signal InputSignal1 { get; set; }
+        public Signal InputSignal2 { get; set; }
+        public Signal OutputSignal { get; set; }
+
+        /// <summary>
+        /// To do: Subtract Signal2 from Signal1 
+        /// i.e OutSig = Sig1 - Sig2 
+        /// </summary>
+        public override void Run()
+        {
+            List<float> Output = new List<float>();
+            List<Signal> signals = new List<Signal>();
+            MultiplySignalByConstant m = new MultiplySignalByConstant();
+            Adder a = new Adder();
+            a.InputSignals = new List<Signal>();
+            m.InputSignal = InputSignal2;
+            m.InputConstant = -1;
+            m.Run();
+            a.InputSignals.Add(m.OutputMultipliedSignal);
+            a.InputSignals.Add(InputSignal1);
+            a.Run();
+            OutputSignal = a.OutputSignal;
+        }
+    }
+}

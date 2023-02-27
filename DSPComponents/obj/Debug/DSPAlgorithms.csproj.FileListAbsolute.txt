@@ -1,0 +1,24 @@
+E:\FCIS\4th year\1st term\DSP\Lab 1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\FCIS\4th year\1st term\DSP\Lab 1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\FCIS\4th year\1st term\DSP\Lab 1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+E:\FCIS\4th year\1st term\DSP\Lab 1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\FCIS\4th year\1st term\DSP\Lab 1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\FCIS\4th year\1st term\DSP\Lab 1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+F:\Grade 4 1\Digital signal processing\1\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\Grade 4 1\Digital signal processing\1\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\Grade 4 1\Digital signal processing\1\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+F:\Grade 4 1\Digital signal processing\1\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\Grade 4 1\Digital signal processing\1\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\Grade 4 1\Digital signal processing\1\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\FCIS\4th year\1st term\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\FCIS\4th year\1st term\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\FCIS\4th year\1st term\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+E:\FCIS\4th year\1st term\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\FCIS\4th year\1st term\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\FCIS\4th year\1st term\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\FCIS\4th year\1st term\DSP\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\FCIS\4th year\1st term\DSP\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\FCIS\4th year\1st term\DSP\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+E:\FCIS\4th year\1st term\DSP\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\FCIS\4th year\1st term\DSP\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\FCIS\4th year\1st term\DSP\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
